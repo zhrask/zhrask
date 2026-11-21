@@ -1,6 +1,1 @@
-## Hi there 👋
-
-<!--
-**zhrask/zhrask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="180">
+<img width="400" height="400" alt="8 Bit Cat GIF" src="https://github.com/user-attachments/assets/157c2b65-66f2-4666-889d-a34a5dd7d978" />
